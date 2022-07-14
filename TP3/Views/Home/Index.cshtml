@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Weather";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Weather</h1>
+    <h2 class="display-4">Select a city and a weather characteristic : </h2>
+    <select multiple name="city" id="city">
+        <option>paris</option>
+        <option>jakarta</option>
+        <option>oslo</option>
+        <option>morocco</option>
+        <option>tokyo</option>
+        <option>moscow</option>
+        <option>berlin</option>
+        <option>barcelona</option>
+        <option>madrid</option>
+        <option>london</option>
+    </select>
+
+    <select multiple name="weather_characteristics" id="weather_characteristics">
+        <option>wind.speed</option>
+        <option>weather.main</option>
+        <option>sys.sunrise</option>
+        <option>sys.sunset</option>
+        <option>main.pressure</option>
+        <option>main.humidity</option>
+        <option>main.temp</option>
+    </select>
+</div>

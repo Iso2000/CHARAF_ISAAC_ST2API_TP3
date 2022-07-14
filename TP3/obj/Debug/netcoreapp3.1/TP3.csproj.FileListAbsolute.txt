@@ -1,0 +1,16 @@
+/Users/hulkcharaf/Documents/Csharp/TP3/TP3/obj/Debug/netcoreapp3.1/TP3.csproj.AssemblyReference.cache
+/Users/hulkcharaf/Documents/Csharp/TP3/TP3/obj/Debug/netcoreapp3.1/TP3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hulkcharaf/Documents/Csharp/TP3/TP3/obj/Debug/netcoreapp3.1/TP3.AssemblyInfoInputs.cache
+/Users/hulkcharaf/Documents/Csharp/TP3/TP3/obj/Debug/netcoreapp3.1/TP3.AssemblyInfo.cs
+/Users/hulkcharaf/Documents/Csharp/TP3/TP3/obj/Debug/netcoreapp3.1/TP3.csproj.CoreCompileInputs.cache
+/Users/hulkcharaf/Documents/Csharp/TP3/TP3/bin/Debug/netcoreapp3.1/TP3
+/Users/hulkcharaf/Documents/Csharp/TP3/TP3/bin/Debug/netcoreapp3.1/TP3.deps.json
+/Users/hulkcharaf/Documents/Csharp/TP3/TP3/bin/Debug/netcoreapp3.1/TP3.runtimeconfig.json
+/Users/hulkcharaf/Documents/Csharp/TP3/TP3/bin/Debug/netcoreapp3.1/TP3.runtimeconfig.dev.json
+/Users/hulkcharaf/Documents/Csharp/TP3/TP3/bin/Debug/netcoreapp3.1/TP3.dll
+/Users/hulkcharaf/Documents/Csharp/TP3/TP3/bin/Debug/netcoreapp3.1/TP3.pdb
+/Users/hulkcharaf/Documents/Csharp/TP3/TP3/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/hulkcharaf/Documents/Csharp/TP3/TP3/obj/Debug/netcoreapp3.1/TP3.csproj.CopyComplete
+/Users/hulkcharaf/Documents/Csharp/TP3/TP3/obj/Debug/netcoreapp3.1/TP3.dll
+/Users/hulkcharaf/Documents/Csharp/TP3/TP3/obj/Debug/netcoreapp3.1/TP3.pdb
+/Users/hulkcharaf/Documents/Csharp/TP3/TP3/obj/Debug/netcoreapp3.1/TP3.genruntimeconfig.cache
